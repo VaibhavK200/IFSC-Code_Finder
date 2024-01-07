@@ -118,7 +118,7 @@ echo "<script>alert('Invalid Details');</script>";
                      
 
 
-                        </form>
+                        </form><br>
 
                     </div>
 
